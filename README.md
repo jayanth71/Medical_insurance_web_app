@@ -1,5 +1,3 @@
-## INFO 7255 BigDataIndexing - Project to demonstrate Indexing of Structured JSON objects.
-
 ### Tech Stack
 - Spring Boot (Java)
 - Redis 
